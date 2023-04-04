@@ -13,4 +13,4 @@
 ### 政务信息化产品经理产出：
 
 1. 可视化大屏视频：https://share.weiyun.com/Nz9l3brp
-2. 移动端H5微应用视频：https://share.weiyun.com/FWBUQQLg 以及 https://share.weiyun.com/6cohjelY
+2. 移动端H5微应用视频：https://share.weiyun.com/FWBUQQLg & https://share.weiyun.com/6cohjelY
