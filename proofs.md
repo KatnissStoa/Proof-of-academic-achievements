@@ -2,19 +2,7 @@
 
 ## SCI
 
-### 1. Integrated Structural Health Monitoring in Bridge Engineering
-
-[全文链接](https://www.sciencedirect.com/science/article/abs/pii/S0926580522000413 )
-
-**作者排名**：第4
-
-**发表刊物**：Automation in Construction, JCR分区: Q1, 影响因子(IF): 10.517
-
-**关键词**：Structural health monitoring (SHM); Bridge engineering
-
-**摘要**：本综述文章讨论了当前桥梁监测的过程和未来趋势，重点介绍了最先进的SHM技术、传感数据的传输和分析方法以及预测和预警模型。着重对四种广泛应用的传感技术（即光纤传感器、压电传感器、全球导航卫星系统和磁致伸缩传感器）进行了回顾和比较，讨论了无线数据传输方法（即ZigBee、蓝牙、NB-IoT、Wi-Fi、LoRa），介绍了基于人工智能的数据处理方法，并总结了性能预测和预警系统。最后，根据桥梁的特点，讨论了当前综合SHM系统面临的挑战和未来研究方向。
-
-### 2. Emerging Deep-Sea Smart Composites: Advent, Performance, and Future Trends
+### 1. Emerging Deep-Sea Smart Composites: Advent, Performance, and Future Trends
 
 [全文链接](https://www.mdpi.com/1996-1944/15/18/6469 )
 
@@ -25,6 +13,18 @@
 **关键词**：Deep-sea composite materials; Deep-sea exploration technology; Smart composites; Self-diagnosis; Self-healing; Self-powered
 
 **摘要**：本文首先回顾了现有的海洋复合材料及其用于资源开采的设备或装置的研究成果和局限性。通过结合智能复合材料的研究进展，提出了具有自诊断、自修复和自供电三大特性的深海智能复合材料，并总结了相关研究。最后，本文总结了材料面临的研究挑战，并展望了新型复合材料与复合材料学科和人工智能技术进步相结合的实际应用发展。
+
+### 2. Integrated Structural Health Monitoring in Bridge Engineering
+
+[全文链接](https://www.sciencedirect.com/science/article/abs/pii/S0926580522000413 )
+
+**作者排名**：第4
+
+**发表刊物**：Automation in Construction, JCR分区: Q1, 影响因子(IF): 10.517
+
+**关键词**：Structural health monitoring (SHM); Bridge engineering
+
+**摘要**：本综述文章讨论了当前桥梁监测的过程和未来趋势，重点介绍了最先进的SHM技术、传感数据的传输和分析方法以及预测和预警模型。着重对四种广泛应用的传感技术（即光纤传感器、压电传感器、全球导航卫星系统和磁致伸缩传感器）进行了回顾和比较，讨论了无线数据传输方法（即ZigBee、蓝牙、NB-IoT、Wi-Fi、LoRa），介绍了基于人工智能的数据处理方法，并总结了性能预测和预警系统。最后，根据桥梁的特点，讨论了当前综合SHM系统面临的挑战和未来研究方向。
 
 ## 中文核心论文
 
