@@ -1,6 +1,6 @@
 ### 网易伏羲 - AI产品经理
 #### 介绍
-1. 部门官网：http://fuxi.163.com/productDetail/17
+1. 部门官网：http://fuxi.163.com/
 2. 产品官网：http://fuxi.163.com/productDetail/17
 3. 产品C端入口：https://zhongbao-web-9109-80.apps-fp.danlu.netease.com/mark/task
 #### 产品
