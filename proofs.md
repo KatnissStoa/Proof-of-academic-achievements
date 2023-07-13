@@ -1,8 +1,17 @@
 # 论文
 
 ## SCI
+### 1. PromptVis: Prompt-Based Interactive Visual Analysis Method for Text-to-Image Creation
 
-### 1. Emerging Deep-Sea Smart Composites: Advent, Performance, and Future Trends
+**作者排名**：第4
+
+**发表刊物**：计算机辅助设计与图形学学报, **CCF-B类期刊**, JCR分区: Q2, 影响因子(IF): 2.202
+
+**关键词**：Text-to-image generation; prompt engineering; prompt visualization
+
+**摘要**：It has become a research hotspot to help people write prompts for text to image creation. To tackle the limitations in existing work regarding the iterative refinement of prompts, we propose PromptVis, an interactive visual analysis method for text to image generation, assisting users in evaluating and iteratively refining prompt to create images. First, the system parses the components of prompt phrases and provides suggestions for improving the prompts, including recommending related keywords to expand and replace the original prompts. The user input and system-recommended prompts are visualized as clusters to support interactive exploration; In addition, the system automatically evaluates the prompts and generated images from multiple dimensions, providing guidance for prompt improvement; Based on the recommended prompts, the system adjusts the local content on the existing images, enabling users to preview the effects of prompt modifications; Two case studies and an expert interview show that this method can effectively assist users in creating prompts.
+
+### 2. Emerging Deep-Sea Smart Composites: Advent, Performance, and Future Trends
 
 [全文链接](https://www.mdpi.com/1996-1944/15/18/6469 )
 
@@ -14,7 +23,7 @@
 
 **摘要**：本文首先回顾了现有的海洋复合材料及其用于资源开采的设备或装置的研究成果和局限性。通过结合智能复合材料的研究进展，提出了具有自诊断、自修复和自供电三大特性的深海智能复合材料，并总结了相关研究。最后，本文总结了材料面临的研究挑战，并展望了新型复合材料与复合材料学科和人工智能技术进步相结合的实际应用发展。
 
-### 2. Integrated Structural Health Monitoring in Bridge Engineering
+### 3. Integrated Structural Health Monitoring in Bridge Engineering
 
 [全文链接](https://www.sciencedirect.com/science/article/abs/pii/S0926580522000413 )
 
