@@ -9,7 +9,7 @@
 
 **关键词**：Text-to-image generation; prompt engineering; prompt visualization
 
-**摘要**：It has become a research hotspot to help people write prompts for text to image creation. To tackle the limitations in existing work regarding the iterative refinement of prompts, we propose PromptVis, an interactive visual analysis method for text to image generation, assisting users in evaluating and iteratively refining prompt to create images. First, the system parses the components of prompt phrases and provides suggestions for improving the prompts, including recommending related keywords to expand and replace the original prompts. The user input and system-recommended prompts are visualized as clusters to support interactive exploration; In addition, the system automatically evaluates the prompts and generated images from multiple dimensions, providing guidance for prompt improvement; Based on the recommended prompts, the system adjusts the local content on the existing images, enabling users to preview the effects of prompt modifications; Two case studies and an expert interview show that this method can effectively assist users in creating prompts.
+**摘要**：如何高效地使用提示词进行文本到图片的创作, 是一个当前的研究热点。针对现有工作在提示词的逐步迭代分析方面的不足, 提出了一种面向文本生成图片的提示词的交互式可视分析方法PromptVis, 帮助用户评估与迭代改进提示词来创作满意的图片。首先对用户输入的提示词语句进行成分解析, 并提供改进提示词的建议, 包括推荐相关的提示词, 以便用户进行扩充和替换。用户输入与系统推荐的提示词通过聚类呈现, 支持用户交互探索; 此外, 从多个维度对文本提示词和生成的图片进行自动评估, 为用户修改提示词提供参考; 根据推荐的提示词, 对现有图片进行局部调整, 使得用户能够预览提示词的修改效果; 通过用户进行提示词创作的案例研究和专家访谈, 证明该方法能有效地辅助用户进行提示词的创作。
 
 ### 2. Emerging Deep-Sea Smart Composites: Advent, Performance, and Future Trends
 
